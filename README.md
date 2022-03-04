@@ -1,6 +1,6 @@
 # Customer-Segmentation-for-Indian-Bank
 
-The data used can be collected from the following link below <br>
+The customer and transaction data used can be collected from the following link below <br>
 https://www.kaggle.com/shivamb/bank-customer-segmentation/
 
 If the dataset and/or link no longer exists, please contact me at nathanling9730@gmail.com and I will send it to you accordingly.
