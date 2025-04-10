@@ -22,4 +22,5 @@ The "Customer Segmentation Project.ipynb" file was initially run in Python 3.8.8
 1. Use a linux Ubuntu environment <br>
 2. Run setup.sh <br>
 3. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888. <br>
+
 You should now be able to run the jupyter notebook
