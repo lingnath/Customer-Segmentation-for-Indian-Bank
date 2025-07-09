@@ -22,4 +22,4 @@ chmod +x setup.sh
 ```
 3. In the terminal, click on the link provided. You will see the Jupyter notebook UI in port 8888. <br>
 
-You should now be able to run the jupyter notebook
+You should now be able to run the jupyter notebook and the ```Customer Segmentation Project.ipynb``` file.
